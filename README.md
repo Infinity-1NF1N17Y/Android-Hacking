@@ -7,9 +7,14 @@ Camera Hacking is most often carried out by infecting the victim's computer with
 
 ###### HACK CAMERA LIVE WITH CLOUDFLARED LINK.
 ***
-### <p align="center">Commands to run tool in ur terminal Termux && Kali Linux
+### <p align="center">Commands to run tool in your terminal Termux && Kali Linux
 ***
-
+```bash
+Note : Tool is Made of Educational Purposes only.
+       Be a good type of Hacker...🕵️‍♂️
+       it's For Fun Purpose Not For Revenge
+       
+```
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/direct/t/17843305499385929/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-kaif-idrisi/) 
 
