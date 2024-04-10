@@ -15,6 +15,14 @@ Note : Tool is Made of Educational Purposes only.
        it's For Fun Purpose Not For Revenge
        
 ```
+### [+] Features 🐱‍🚀
+ - Get IP, Location, Device type and Browser
+ - Choose where to save images(custom directory) 
+ ## The Tool is for :
+- Kali Linux
+- Termux
+- MacOS
+- Perrot Sec OS
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/direct/t/17843305499385929/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-kaif-idrisi/) 
 
