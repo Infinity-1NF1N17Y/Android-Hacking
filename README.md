@@ -15,6 +15,12 @@ Note : Tool is Made of Educational Purposes only.
        it's For Fun Purpose Not For Revenge
        
 ```
+## EXECUTIVE SUMMERY 
+We can easily access any victim camera through sending a link to the victim 
+we generate a milicious link and send to victim once they click that link 
+then they redirect to youtube video so we can easily capture the victim 
+photos in our machine.
+
 ### [+] Features 🐱‍🚀
  - Get IP, Location, Device type and Browser
  - Choose where to save images(custom directory) 
@@ -23,6 +29,28 @@ Note : Tool is Made of Educational Purposes only.
 - Termux
 - MacOS
 - Perrot Sec OS
+
+  ## How Works ?
+First of all This tool host a phishing site on attacker local network. This tool gives two port forwarding option (NGROK or CloudFlare) to take website over the internet. Now come on the main Point, attacker simply open the tool by using terminal and generate a link, when Link is generated attacker send that link to the target. If target open the link, target ip will transfer to the attacker. After Website load, the website ask for Camera access and when target give the permission the website will take cam shots one by one and send it to the Attacker
+
+###### Installation
+```bash
+apt update && apt upgrade -y
+```
+```bash
+git clone https://github.com/techchipnet/CamPhish.git
+```
+```bash
+ls
+```
+```bash
+cd Camphish
+```
+```bash
+bash camphish.sh
+```
+select option 1 <ngrok>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/direct/t/17843305499385929/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-kaif-idrisi/) 
 
